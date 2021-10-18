@@ -1,0 +1,84 @@
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\obj\Debug\net5.0\MongoShop2.0.csproj.AssemblyReference.cache
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\obj\Debug\net5.0\MongoShop2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\obj\Debug\net5.0\MongoShop2.0.AssemblyInfoInputs.cache
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\obj\Debug\net5.0\MongoShop2.0.AssemblyInfo.cs
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\obj\Debug\net5.0\MongoShop2.0.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\obj\Debug\net5.0\MongoShop2.0.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\obj\Debug\net5.0\MongoShop2.0.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\bin\Debug\net5.0\appsettings.json
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\bin\Debug\net5.0\MongoShop2.0.exe
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\bin\Debug\net5.0\MongoShop2.0.deps.json
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\bin\Debug\net5.0\MongoShop2.0.runtimeconfig.json
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\bin\Debug\net5.0\MongoShop2.0.runtimeconfig.dev.json
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\bin\Debug\net5.0\MongoShop2.0.dll
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\bin\Debug\net5.0\ref\MongoShop2.0.dll
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\bin\Debug\net5.0\MongoShop2.0.pdb
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\obj\Debug\net5.0\staticwebassets\MongoShop2.0.StaticWebAssets.Manifest.cache
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\obj\Debug\net5.0\staticwebassets\MongoShop2.0.StaticWebAssets.xml
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\obj\Debug\net5.0\scopedcss\bundle\MongoShop2.0.styles.css
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\obj\Debug\net5.0\MongoShop2.0.RazorTargetAssemblyInfo.cache
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\obj\Debug\net5.0\MongoShop2.0.dll
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\obj\Debug\net5.0\ref\MongoShop2.0.dll
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\obj\Debug\net5.0\MongoShop2.0.pdb
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\obj\Debug\net5.0\MongoShop2.0.genruntimeconfig.cache
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\bin\Debug\net5.0\DnsClient.dll
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\bin\Debug\net5.0\MediatR.dll
+C:\Users\nicol\source\repos\MongoShop2.0\MongoShop2.0\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\bin\Debug\net5.0\appsettings.json
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\bin\Debug\net5.0\MongoShop2.0.exe
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\bin\Debug\net5.0\MongoShop2.0.deps.json
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\bin\Debug\net5.0\MongoShop2.0.runtimeconfig.json
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\bin\Debug\net5.0\MongoShop2.0.runtimeconfig.dev.json
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\bin\Debug\net5.0\MongoShop2.0.dll
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\bin\Debug\net5.0\ref\MongoShop2.0.dll
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\bin\Debug\net5.0\MongoShop2.0.pdb
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\bin\Debug\net5.0\DnsClient.dll
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\bin\Debug\net5.0\MediatR.dll
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\obj\Debug\net5.0\MongoShop2.0.csproj.AssemblyReference.cache
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\obj\Debug\net5.0\MongoShop2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\obj\Debug\net5.0\MongoShop2.0.AssemblyInfoInputs.cache
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\obj\Debug\net5.0\MongoShop2.0.AssemblyInfo.cs
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\obj\Debug\net5.0\MongoShop2.0.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\obj\Debug\net5.0\MongoShop2.0.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\obj\Debug\net5.0\MongoShop2.0.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\obj\Debug\net5.0\staticwebassets\MongoShop2.0.StaticWebAssets.Manifest.cache
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\obj\Debug\net5.0\staticwebassets\MongoShop2.0.StaticWebAssets.xml
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\obj\Debug\net5.0\scopedcss\bundle\MongoShop2.0.styles.css
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\obj\Debug\net5.0\MongoShop2.0.RazorTargetAssemblyInfo.cache
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\obj\Debug\net5.0\MongoShop2.0.dll
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\obj\Debug\net5.0\ref\MongoShop2.0.dll
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\obj\Debug\net5.0\MongoShop2.0.pdb
+C:\Users\nicol\Projects\.NET PROJECTS\MongoShop2.0\obj\Debug\net5.0\MongoShop2.0.genruntimeconfig.cache
